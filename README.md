@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Adesh000
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning HTML & CSS
+- 👋 Hi, I’m Adesh Nayak
+- 👀 I’m a front end web developer and learning web development @iNeuron.ai
+- 🌱 I’m good in HTML, CSS, JavaScript and ReactJS
 - 💞️ I’m looking to collaborate on ...
 
 <!---
